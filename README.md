@@ -1,4 +1,4 @@
-# newbie
+![](https://nothal.github.io/newbie/assets/wordmark.svg)
 JavaScript for newbies. Write code without jargon. Make interactive web page with Javascript in minutes. 
 
 # To start coding
