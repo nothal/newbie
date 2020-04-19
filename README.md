@@ -16,7 +16,7 @@ you must locate `newbie.js` by replacing `/locate/newbie.js` with path to `newbi
 | .html() | `{}?` | Make HTML element from a string of valid HTML tag | `"div".html({id: "elem-1"})` |
 | .text() | `""` | Insert text into an element | `"div".html().text("Hello!")` |
 | .has() | `<>+` | Insert elements into an element | `"div".html().has("div".html())` |
-| .on() | `{}` | Make HTML element from a string of valid HTML tag | `"div".html().on({click: blink})` |
+| .on() | `{}` | Add event listeners to an element | `"div".html().on({click: blink})` |
 
 #### Symbol meaning:
 `(…)` meaning parameter that is being accepted by the function
